@@ -1,6 +1,6 @@
 # Open Source Magic Viewer
 
-Original code: (C) 1999-2023 Aaron C. Shumate
+Original code: (C) 1999-2023 [Aaron C. Shumate](https://www.linkedin.com/in/aaron-shumate/)
 
 Migrated the original Java class files into platform-independent browsers via CheeprJ: (C) 
  [M. B. Ghaznavi-Ghoushchi](https://github.com/ghoushchi).
@@ -18,8 +18,9 @@ To see how the code runs go to the following link of a full chip click on each s
 ![Demo](Magic-Output.gif)
 
 ### Credits:
-The original code is due to : (C) 1999-2023 Aaron C. Shumate
+The original code is due to : (C) 1999-2023  [Aaron C. Shumate](https://www.linkedin.com/in/aaron-shumate/)
 Migrated the original Java class files into platform-independent browsers via CheeprJ by (C) [M. B. Ghaznavi-Ghoushchi](https://github.com/ghoushchi).
+
 
 
 # Related Projects
