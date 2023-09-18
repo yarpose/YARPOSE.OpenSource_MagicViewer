@@ -15,7 +15,7 @@ To see how the code runs go to the following link of a full chip click on each s
 
 
 
-![Demo](mMagic-Output.gif)
+![Demo](Magic-Output.gif)
 
 ### Credits:
 The original code is due to : (C) 1999-2023 Aaron C. Shumate
